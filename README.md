@@ -57,3 +57,4 @@
 - [Data Analysis](https://github.com/SPARCS-Service-Hackathon-2024/A7-Data-Analysis)
 - [Frontend](https://github.com/SPARCS-Service-Hackathon-2024/A7-Frontend)
 - [Backend](https://github.com/SPARCS-Service-Hackathon-2024/A7-Frontend)
+- [Figma](https://www.figma.com/file/vlgeSubR45xsIi07YVmVds/SPARCS-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%B4%EC%BB%A4%ED%86%A4?type=design&node-id=2%3A5&mode=design&t=g6Kpyq2sevi1vrje-1)
