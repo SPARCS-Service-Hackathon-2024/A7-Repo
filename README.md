@@ -32,7 +32,7 @@
 
 ## 핵심 기능
 
-해커톤 기간동안 제공됐던 [엘리스 클라우드](https://elice.io/ko/products/cloud/info) 를 활용해 사용자의 정보를 바탕으로 사용자에게 맞는 집을 추천해주는 서비스를 제공합니다. [링크](https://huggingface.co/taewan2002/srabwayu-rec-7b)
+해커톤 기간동안 제공됐던 [엘리스 클라우드](https://elice.io/ko/products/cloud/info) 로 제작한 언어 모델을 활용해 사용자의 정보를 바탕으로 사용자에게 맞는 집을 추천해주는 서비스를 제공합니다. [링크](https://huggingface.co/taewan2002/srabwayu-rec-7b)
 
 ![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/8731fd5e-893f-486a-856c-3f5eda4ba1d5)
 
