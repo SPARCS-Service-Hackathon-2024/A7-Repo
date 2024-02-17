@@ -22,8 +22,7 @@
 
 ![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/e26a5eef-551b-40cd-8052-d24cc80ab3f9)
 
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/
-8d788867-e72a-4a82-bcf3-606ab0ca087f)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/8d788867-e72a-4a82-bcf3-606ab0ca087f)
 
 ![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/d3908da8-8631-4fc4-ab5a-5cfe98c247e3)
 
