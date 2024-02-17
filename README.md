@@ -12,29 +12,29 @@
 
 ## 서비스 소개
 
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/145fe422-7dc0-43d4-96f6-1c5a73457ccf)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/e6420b25-ecea-4af6-90b1-a0713dfe8a2d)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/7d150051-6033-4e81-98b3-d833e1b2e726)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/a853084c-0572-4444-b01d-9dd8d03eadf8)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/a5e28f66-f491-4d4a-9b42-7959d5014093)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/b3cadf6d-4f11-4cd2-a485-df1078f4d35d)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/9d1a135f-75f6-4964-bdc6-263c10636a39)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/dbe48df6-a2da-42b4-8a3f-16ff5d8db705)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/e05f9e83-28e7-409d-87b2-c1bdf51b6c83)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/50266197-4abb-45fc-a744-3ae17948872a)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/c63f5cb8-aca1-474a-aa47-f85380001424)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/adaf6bf2-db45-4ab6-b046-392e84e3ff8f)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/e8deef72-0a21-43c7-8f9c-bfd897cc3a92)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/0bc25f8a-8e45-4647-8d39-ea77d33faa82)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/c90d0da3-04b9-48a9-9adf-45649d18216d)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/c8adb363-e39f-48f5-94ad-f9c0b95b65f9)
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/e018fad4-ed65-4bff-a29d-56f504523f66)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/f8d2ccf1-a157-4578-8b3d-8448bdcfd488)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/984cde8e-d3f6-4e3f-acb6-ec1cda67844b)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/832612aa-b1de-4820-b77a-f4d814ec762e)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/32e9cf47-3b9a-484c-9bca-0add4180f118)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/e26a5eef-551b-40cd-8052-d24cc80ab3f9)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/8d788867-e72a-4a82-bcf3-606ab0ca087f)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/d3908da8-8631-4fc4-ab5a-5cfe98c247e3)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/a7234a41-87ac-4383-a5dc-7479c0b5e3b2)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/9f0a7f41-ba10-469e-bf83-8a714639d035)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/1e41718d-4a68-4d94-a80f-cbfac1aa475d)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/f8767bfa-13e1-47f4-bd02-3cc36435a390)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/d9346bde-7993-4775-8ead-da9e846cee41)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/e60df02e-0054-453a-ba86-83fb21f5b540)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/331e6289-6fa2-4813-bbc6-f4dc626753ad)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/33cb083f-e27b-414c-afb8-c7e125c2f6fc)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/8bb98eaa-2760-4c49-878d-d7d44d0bc53b)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/67689e68-fe9b-4da4-a291-4d4cfc001ac8)
 
 ## 핵심 기능
 
 해커톤 기간동안 제공됐던 [엘리스 클라우드](https://elice.io/ko/products/cloud/info) 로 제작한 언어 모델을 활용해 사용자의 정보를 바탕으로 사용자에게 맞는 집을 추천해주는 서비스를 제공합니다. [링크](https://huggingface.co/taewan2002/srabwayu-rec-7b)
 
-![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Backend/assets/89565530/8731fd5e-893f-486a-856c-3f5eda4ba1d5)
+![](https://github.com/SPARCS-Service-Hackathon-2024/A7-Repo/assets/89565530/6c52c947-36bf-45fd-ac7c-5b0a5f608680)
 
 ## 관련 링크
 
